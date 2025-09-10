@@ -1,0 +1,38 @@
+{
+  "name": "saas-review-scraper",
+  "version": "1.0.0",
+  "description": "Advanced SaaS product review scraper for G2, Capterra, and TrustPilot",
+  "main": "reviewScraper.js",
+  "scripts": {
+    "start": "node reviewScraper.js",
+    "scrape": "node reviewScraper.js",
+    "install-deps": "npm install",
+    "test": "node test.js"
+  },
+  "bin": {
+    "review-scraper": "./reviewScraper.js"
+  },
+  "keywords": [
+    "scraper",
+    "reviews",
+    "g2",
+    "capterra",
+    "trustpilot",
+    "saas"
+  ],
+  "author": "Arnav Challa",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "1.0.0-rc.10",
+    "commander": "^11.1.0",
+    "moment": "^2.29.4",
+    "playwright": "^1.44.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Chrome profile data (auto-generated)
+chrome-profile/
+
+# Output files
+sample_reviews.json
+reviews.json
