@@ -1,4 +1,4 @@
-NOTE: This is purely for personal educational use. CAPTCHAs arw presented to humans and no TOS breaking anto botting is used.
+NOTE: This is purely for personal educational use. CAPTCHAs arw presented to humans and no TOS breaking anti botting is used.
 
 # Quick Start Guide
 
